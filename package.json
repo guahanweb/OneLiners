@@ -1,0 +1,26 @@
+{
+  "name": "one-liners",
+  "version": "1.0.0",
+  "description": "There for you when you need a laugh...",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/guahanweb/one-liners.git"
+  },
+  "keywords": [
+    "jokes",
+    "npm"
+  ],
+  "author": {
+    "name": "Garth Henson",
+    "email": "garth@guahanweb.com"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/guahanweb/one-liners/issues"
+  },
+  "homepage": "https://github.com/guahanweb/one-liners#readme"
+}
